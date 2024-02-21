@@ -1,0 +1,3168 @@
+paragraph,id,count,em,nll
+"TD>
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_controlP5.Controller""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH AL",4171,8,50.0,0.566
+"Type != 2 {
+				return fmt.Errorf(""proto: wrong wireType = %d for field DeprecatedSource"", wireType)
+			}
+			var msglen int
+			for shift := uint(0); ; shift += 7 {
+				if shift >= 64 {
+					return ErrIntOverflowGenerated
+				}
+				if iN",4420,76,50.0,0.631
+"DF5-91F0-309BEEBAD82D}"" />
+  </ItemGroup>
+  <Import Project=""$(MSBuildToolsPath)\Microsoft.CSharp.targets"" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name=""BeforeBuild"">",5729,20,50.0,0.901
+""": ""sha1-EtSj3U5o4Lec6428hBc66A2RykQ=""
+    },
+    ""isarray"": {
+      ""version"": ""1.0.0"",
+      ""resolved"": ""https://registry.npmjs.org/isarray/-/isarray-1.0.0.tgz"",
+   ",6159,20,50.0,1.6
+" COMMAND AT THE TOP; DO NOT EDIT
+
+func mknodat_freebsd12(fd int, path string, mode uint32, dev uint64) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall6(SYS_MKNODAT_",6225,821,50.0,0.397
+"
+
+Ethics approval and consent to participate {#FPar3}
+==========================================
+
+Not applicable.
+
+Consent for publication {#FPar4}
+=======================
+
+Not applicable
+
+Competing interests {#FPar5}
+===================
+
+The authors declare that they have no competing interests.
+
+Publisher's Note {#FPar6}
+================
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and",6695,56,50.0,0.239
+" path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* TestAppAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestAppAppDelegate.h; sourceTree = ""<group>""; };
+		1D3623",7024,50,50.0,1.355
+"TractorForum.com - The Friendliest Tractor Forum and Best Place for Tractor Information forums, you must first register.
+Please enter your desired user name, your email address and other required details in the form below.
+
+User Name:
+
+Password
+
+Please enter a password for your user account. Note that passwords are case-sensitive.
+
+Password:
+
+Confirm Password:
+
+Email Address
+
+Please enter a valid email address for yourself.
+",7350,40,50.0,1.232
+"<P>
+<!-- ======== NESTED CLASS SUMMARY ======== -->
+
+<A NAME=""nested_class_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH",7379,41,50.0,0.335
+" These products are not intended to diagnose, treat, cure, or prevent any disease.
+
+The information provided on this site is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional or any information contained on or in any product label or packaging. You should not use the information on this site for diagnosis or treatment of any health problem or for prescription of any medication or other treatment. You should consult with a healthcare professional before starting any diet, exercise",7566,47,50.0,0.493
+"com.
+
+Meta
+
+The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB, the silhouetted batter logo, World Series, National League, American League, Division Series, League Championship Series, All-Star Game, and the names, nicknames, logos, uniform designs, color combinations, and slogans designating the Major",7611,47,50.0,0.31
+"=""fields_inherited_from_class_com.fasterxml.jackson.databind.ser.std.StdSerializer""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN=""left",7666,49,50.0,0.725
+"String)"" title=""class or interface in java.lang"">valueOf</A></CODE></TD>
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR",7828,58,50.0,0.454
+"CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project=""$(VCTargetsPath)\Microsoft.Cpp.props"" />
+  <ImportGroup Label=""ExtensionSettings"">
+  </ImportGroup>
+  <ImportGroup Label=""PropertySheets"" Condition=""'$(Configuration)|$(Platform)'=='Debug|Win32'",8281,85,50.0,0.549
+"=== -->
+
+
+<!-- =========== FIELD SUMMARY =========== -->
+
+
+<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+
+<A NAME=""constructor_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""Table",8460,89,50.0,0.362
+">
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_soot.tagkit.Host""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH",8494,87,50.0,0.636
+"MatchingBraceOutdent = MatchingBraceOutdent;
+});
+
+define(""ace/mode/folding/cstyle"",[""require"",""exports"",""module"",""ace/lib/oop"",""ace/range"",""ace/mode/folding/fold_mode""], function(require, exports, module) {
+""use strict"";
+
+var oop = require(""../../lib/oop"");
+var Range = require(""../../range"").Range",8877,219,50.0,0.899
+". He also watched the Flyers bully their way to consecutive Stanley Cups in the 1970s, and makes no excuses for their quasi-legal play.
+
+Comments policy
+
+We invite you to use our commenting platform to engage in insightful conversations about issues in our community. Although we do not pre-screen comments, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane,",9000,113,50.0,1.421
+" which application is best for the job? Post your question in this forum.
+
+Notices
+
+Welcome to LinuxQuestions.org, a friendly and active Linux Community.
+
+You are currently viewing LQ as a guest. By joining our community you will have the ability to post topics, receive our newsletter, use the advanced search, subscribe to threads and access many other special features. Registration is quick, simple and absolutely free. Join our community today!
+
+Note that registered members see",9146,142,50.0,1.23
+" GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Getdtablesize() (size int) {
+	r0, _, _ := Syscall(SYS_GETDTABLESIZE, 0, 0, 0)
+	size = int(r0)
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Getegid() (egid",9240,3229,50.0,0.15
+"), 0, 0)
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Fallocate(fd int, mode uint32, off int64, len int64) (err error) {
+	_, _, e1 := Syscall6(SYS_FALLOCATE, uintptr(fd), uintptr(mode), uintptr(off), uintptr(len), 0,",9276,1334,50.0,0.255
+"1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Linkat(pathfd int, path string, linkfd int, link string, flags int) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	var _p",9300,4046,50.0,0.202
+" GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func FinitModule(fd int, params string, flags int) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(params)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall(SYS_FINIT_MODULE, uintptr(fd), uint",9378,1669,50.0,0.321
+"
+
+<A NAME=""field_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""2""><FONT SIZE=""+2"">
+<",9457,193,50.0,0.342
+"""
+      }
+    },
+    ""kind"": {
+      ""description"": ""Kind is a string value representing the REST resource this object represents. Servers may infer this from the endpoint the client submits requests to. Cannot be updated. In CamelCase. More info: https://git.k8s.io/community/contributors/devel/api-conventions.md#types-kinds",9618,228,50.0,0.419
+"-count quiet"">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+",9633,268,50.0,0.487
+"err error) {
+	_, _, e1 := Syscall6(SYS_FADVISE64, uintptr(fd), uintptr(offset), uintptr(length), uintptr(advice), 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT",9748,2457,50.0,0.478
+"Written informed consent was obtained from the patient for publication of this case report and any accompanying images. A copy of the written consent is available for review by the Editor-in-Chief of this journal.
+
+Competing interests {#FPar5}
+===================
+
+The authors declare that they have no competing interests.
+
+Publisher's Note {#FPar6}
+================
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",9781,438,50.0,0.25
+"call(SYS_GETSID, uintptr(pid), 0, 0)
+	sid = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Gettimeofday(tv *Timeval) (err error) {
+	_, _,",9810,4243,50.0,0.366
+" offender or victim online pointed to media coverage […]
+
+Almost Done!
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account",9891,294,50.0,0.854
+")
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Mknod(path string, mode uint32, dev int) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall",9943,4911,50.0,0.165
+"*\*\*\*\*\*\*
+
+PLOS authors have the option to publish the peer review history of their article ([what does this mean?](https://journals.plos.org/plosgenetics/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain",9966,561,50.0,0.395
+"return
+	}
+	_, _, e1 := Syscall(SYS_SYMLINK, uintptr(unsafe.Pointer(_p0)), uintptr(unsafe.Pointer(_p1)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+",10001,4959,50.0,0.294
+"phone: 074 9740160
+
+This website and its associated newspaper are full participating members of the Press Council of Ireland and supports the Office of the Press Ombudsman. This scheme in addition to defending the freedom of the press, offers readers a quick, fair and free method of dealing with complaints that they may have in relation to articles that appear on our pages. To contact the Office of the Press Ombudsman go to www.pressombudsman.ie or www.presscoun",10021,295,50.0,0.771
+" this mean?](https://journals.plos.org/plosgenetics/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice,",10030,549,50.0,0.823
+" ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor_summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><",10037,290,50.0,0.31
+" _, e1 := Syscall(SYS_LLISTXATTR, uintptr(unsafe.Pointer(_p0)), uintptr(_p1), uintptr(len(dest)))
+	sz = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO",10090,2848,50.0,0.504
+"../../../../../../../allclasses-noframe.html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+ ",10111,307,50.0,0.307
+"Err(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func setgroups(ngid int, gid *_Gid_t) (err error) {
+	_, _, e1 := RawSyscall(SYS_SETGROUPS, uintptr(ngid), uintptr(unsafe.Pointer(gid)), 0)
+",10115,5734,50.0,0.321
+"_t) (err error) {
+	_, _, e1 := RawSyscall(SYS_SETGROUPS, uintptr(ngid), uintptr(unsafe.Pointer(gid)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+",10122,5734,50.0,0.401
+"
+
+	if iNdEx > l {
+		return io.ErrUnexpectedEOF
+	}
+	return nil
+}
+func skipGenerated(dAtA []byte) (n int, err error) {
+	l := len(dAtA)
+	iNdEx := 0
+	for iNdEx < l {
+		var wire uint64
+		for shift := uint(0); ; shift += 7",10131,1646,50.0,0.457
+" our readers to try to keep our comment section fair and decent. For that reason WEAU 13 News reserves the right to not post or to remove any comment.
+
+Online Public Information File
+
+Viewers with disabilities can get assistance accessing this station's FCC Public Inspection File by contacting the station with the information listed below. Questions or concerns relating to the accessibility of the FCC's online public file system should be directed to the FCC at 888-225-5322, 888-835",10168,316,50.0,1.484
+"ATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Kqueue() (fd int, err error) {
+	r0, _, e1 := Syscall(SYS_KQUEUE, 0, 0, 0)
+	fd = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENER",10176,5734,50.0,0.216
+"= METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method_summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<",10198,305,50.0,0.616
+"OURCES)
+	$(MAKE) $(AM_MAKEFLAGS) distdir-am
+
+distdir-am: $(DISTFILES)
+	@srcdirstrip=`echo ""$(srcdir)"" | sed 's/[].[^$$\\*]/\\\\&/g'`; \
+	topsrcdirstrip=`echo ""$(top_srcdir)"" | sed 's/[].[^$$\\*",10205,370,50.0,0.744
+"
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Settimeofday(tp *Timeval) (err error) {
+	_, _, e1 := RawSyscall(SYS_SETTIMEOFDAY, uintptr(unsafe.Pointer(tp)), 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}",10216,5734,50.0,0.226
+"
+	}
+	_, _, e1 := Syscall(SYS_UTIMES, uintptr(unsafe.Pointer(_p0)), uintptr(unsafe.Pointer(times)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func",10235,3610,50.0,0.294
+" BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func keyctlIOV(cmd int, arg2 int, payload []Iovec, arg5 int) (err error) {
+	var _p0 unsafe.Pointer
+	if len(payload) > 0 {
+		_p0 = unsafe.Pointer(&payload[0])
+	} else {
+		_p0 = unsafe.Pointer(&_zero)
+",10237,2865,50.0,0.514
+"”
+
+You'll get this book and many others when you join Bible Gateway Plus. Learn more
+
+You must be logged in to view your newly purchased content. Please log in below or if you don't have an account, creating one is easy and only takes a few moments. After you log in your content will be available in your library.
+
+Share
+
+Step 1 - Create an account or log in to start your free trial.
+
+Starting your free trial of Bible",10281,400,50.0,0.823
+" TOP; DO NOT EDIT
+
+func keyctlDH(cmd int, arg2 *KeyctlDHParams, buf []byte) (ret int, err error) {
+	var _p0 unsafe.Pointer
+	if len(buf) > 0 {
+		_p0 = unsafe.Pointer(&buf[0])
+	} else {
+		_p0 = unsafe.Pointer(&_zero)
+	}
+	r0,",10334,2865,50.0,0.586
+"
+    getMenuInflater().inflate(R.menu.main, menu);
+    return true;
+}
+
+@Override
+public boolean onOptionsItemSelected(MenuItem item) {
+    // Handle action bar item clicks here. The action bar will
+    // automatically handle clicks on the Home/Up button, so long
+    // as you specify a parent activity in AndroidManifest.xml.",10335,755,50.0,0.584
+"to""
+	math ""math""
+)
+
+// Reference imports to suppress errors if they are not otherwise used.
+var _ = proto.Marshal
+var _ = fmt.Errorf
+var _ = math.Inf
+
+// This is a compile-time assertion to ensure that this generated file
+// is compatible with the proto package it is being compiled against.
+// A compilation error at this line likely means your copy of the
+// proto package needs to be updated",10340,756,50.0,0.63
+" IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func keyctlDH(cmd int, arg2 *KeyctlDHParams, buf []byte) (ret int, err error) {
+	var _p0 unsafe.Pointer
+	if len(buf) > 0 {
+		_p0 = unsafe.Pointer(&buf[0])
+	} else {
+		_p0 = unsafe.Pointer(&_",10348,2865,50.0,0.595
+" BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Lstat(path string, stat *Stat_t) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall(SYS_LSTAT, uintptr(unsafe.Pointer(_p0)), uint",10350,5426,50.0,0.137
+"r(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Ftruncate(fd int, length int64) (err error) {
+	_, _, e1 := Syscall(SYS_FTRUNCATE, uintptr(fd), uintptr(length), 0)
+	if e1 != 0 {
+		err =",10365,4500,50.0,0.308
+" ---------------------------------------------------------------- -------------------------------------------------------------------------------------------------
+
+Special details {#specialdetails}
+===============
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Geometry. All e.s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s",10389,957,50.0,0.656
+" ubuf *Ustat_t) (err error) {
+	_, _, e1 := Syscall(SYS_USTAT, uintptr(dev), uintptr(unsafe.Pointer(ubuf)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT",10397,3872,50.0,0.734
+"ERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Unshare(flags int) (err error) {
+	_, _, e1 := Syscall(SYS_UNSHARE, uintptr(flags), 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP",10412,3577,50.0,0.236
+"nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN=""left""><B>Methods inherited from",10453,476,50.0,0.371
+"Pointer(&_zero)
+	}
+	_, _, e1 := Syscall(SYS_MADVISE, uintptr(_p0), uintptr(len(b)), uintptr(advice))
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+",10466,3577,50.0,0.535
+" BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Ustat(dev int, ubuf *Ustat_t) (err error) {
+	_, _, e1 := Syscall(SYS_USTAT, uintptr(dev), uintptr(unsafe.Pointer(ubuf)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}",10468,3872,50.0,0.239
+"[0])
+	} else {
+		_p0 = unsafe.Pointer(&_zero)
+	}
+	r0, _, e1 := Syscall(SYS_GETCWD, uintptr(_p0), uintptr(len(buf)), 0)
+	n = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}",10472,3577,50.0,0.326
+"  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit",10481,766,50.0,0.225
+" TOP; DO NOT EDIT
+
+func Tgkill(tgid int, tid int, sig syscall.Signal) (err error) {
+	_, _, e1 := RawSyscall(SYS_TGKILL, uintptr(tgid), uintptr(tid), uintptr(sig))
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+",10483,3547,50.0,0.3
+" errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Removexattr(path string, attr string) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	var _p1 *byte",10533,3577,50.0,0.159
+" AT THE TOP; DO NOT EDIT
+
+func Dup(oldfd int) (fd int, err error) {
+	r0, _, e1 := Syscall(SYS_DUP, uintptr(oldfd), 0, 0)
+	fd = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENER",10560,3577,50.0,0.222
+"(fds)), uintptr(nfds), uintptr(unsafe.Pointer(timeout)), uintptr(unsafe.Pointer(sigmask)), 0, 0)
+	n = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func",10564,4161,50.0,0.689
+"
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Sethostname(p []byte) (err error) {
+	var _p0 unsafe.Pointer
+	if len(p) > 0 {
+		_p0 = unsafe.Pointer(&p[0])
+	} else {
+		_p0 = unsafe.Pointer(&_zero)
+	}
+	_",10565,3580,50.0,0.232
+" = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Renameat(olddirfd int, oldpath string, newdirfd int, newpath string) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(oldpath)
+	if err != nil {
+	",10631,4574,50.0,0.168
+" 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Setresuid(ruid int, euid int, suid int) (err error) {
+	_, _, e1 := RawSyscall(SYS_SETRESUID, uintptr(ruid), uintptr(euid), uint",10656,6707,50.0,0.203
+"
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Mknodat(dirfd int, path string, mode uint32, dev int) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Sys",10734,5163,50.0,0.197
+", e1 := Syscall(SYS_MLOCK, uintptr(_p0), uintptr(len(b)), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Mlockall(flags int) (err error) {
+	_, _, e",10782,8362,50.0,0.369
+" FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Mknodat(dirfd int, path string, mode uint32, dev int) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall6(SYS_MKNOD",10796,5163,50.0,0.143
+" != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func socketpair(domain int, typ int, proto int, fd *[2]int32) (err error) {
+	_, _, e1 := RawSyscall6(SYS_SOCKETPAIR, uintptr(domain",10798,9169,50.0,0.171
+" by Station Moderators.
+Questions may be sent to comments@kbtx.com.
+Please provide detailed information.
+
+Online Public Information File
+
+Viewers with disabilities can get assistance accessing this station's FCC Public Inspection File by contacting the station with the information listed below. Questions or concerns relating to the accessibility of the FCC's online public file system should be directed to the FCC at 888-225-5322, 888-835-5322 (TTY), or",10824,707,50.0,1.088
+"e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Lstat(path string, stat *Stat_t) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _, e1 := Syscall",10840,7947,50.0,0.202
+" =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""enum.constant.summary"">
+<!--   -->
+</a>
+<h3>Enum Constant Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Enum Constant Summary table, listing enum constants, and an explanation"">
+<caption><span>En",10845,624,50.0,0.481
+"}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Gettimeofday(tv *Timeval) (err error) {
+	_, _, e1 := RawSyscall(SYS_GETTIMEOFDAY, uintptr(unsafe.Pointer(tv)), 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	",10856,8381,50.0,0.159
+" conversation
+
+1 comment
+
+Register
+
+I agree to TechTarget’s Terms of Use, Privacy Policy, and the transfer of my information to the United States for processing to provide me with relevant information as described in our Privacy Policy.
+
+Please check the box if you want to proceed.
+
+I agree to my information being processed by TechTarget and its Partners to contact me via phone, email, or other means regarding information relevant to my professional interests. I may unsubscribe",10877,723,50.0,0.414
+"OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					""DEBUG=",10930,786,50.0,0.544
+"/api/java/lang/Object.html?is-external=true#wait(long, int)"" title=""class or interface in java.lang"">wait</A></CODE></TD>
+</TR>
+</TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" W",10970,704,50.0,0.336
+"true#wait(long, int)"" title=""class or interface in java.lang"">wait</A></CODE></TD>
+</TR>
+</TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELL",10987,715,50.0,0.689
+" GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Munlockall() (err error) {
+	_, _, e1 := Syscall(SYS_MUNLOCKALL, 0, 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO",10990,9281,50.0,0.194
+"
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func accept(s int, rsa *RawSockaddrAny, addrlen *_Socklen) (fd int, err error) {
+	r0, _, e1 := Syscall(SYS_ACCEPT, uintptr(s), uintptr(unsafe.Pointer(rsa)), uintptr(unsafe.Pointer(addrlen",10995,9567,50.0,0.205
+"
+func Setpriority(which int, who int, prio int) (err error) {
+	_, _, e1 := Syscall(SYS_SETPRIORITY, uintptr(which), uintptr(who), uintptr(prio))
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT",10997,9311,50.0,0.52
+"bsp;&nbsp;</TD>
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHead",11006,876,50.0,0.151
+" = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Munlockall() (err error) {
+	_, _, e1 := Syscall(SYS_MUNLOCKALL, 0, 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}",11043,9281,50.0,0.175
+"
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func recvfrom(fd int, p []byte, flags int, from *RawSockaddrAny, fromlen *_Socklen) (n int, err error) {
+	var _p0 unsafe.Pointer
+	if len(p) > 0 {
+		_p0 = unsafe.Pointer(&p[0])
+	}",11046,10324,50.0,0.231
+"EN"" ""http://www.apple.com/DTDs/PropertyList-1.0.dtd"">
+<plist version=""1.0"">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>",11067,2504,50.0,0.551
+"=""searchBox.OnSelectItem(8)""><span class=""SelectionMark"">&#160;</span>Defines</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</iframe>
+",11094,1102,50.0,0.509
+" 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Setpgid(pid int, pgid int) (err error) {
+	_, _, e1 := RawSyscall(SYS_SETPGID, uintptr(pid), uintptr(pgid), 0)
+	if e1",11109,9311,50.0,0.171
+"func Setpriority(which int, who int, prio int) (err error) {
+	_, _, e1 := Syscall(SYS_SETPRIORITY, uintptr(which), uintptr(who), uintptr(prio))
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE",11122,9311,50.0,0.549
+" THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Munlockall() (err error) {
+	_, _, e1 := Syscall(SYS_MUNLOCKALL, 0, 0, 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+",11125,9281,50.0,0.222
+" != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT
+
+func Chdir(path string) (err error) {
+	var _p0 *byte
+	_p0, err = BytePtrFromString(path)
+	if err != nil {
+		return
+	}
+	_, _",11126,9311,50.0,0.128
+"	_, _, e1 := Syscall6(SYS_SETSOCKOPT, uintptr(s), uintptr(level), uintptr(name), uintptr(val), uintptr(vallen), 0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO NOT EDIT",11163,9552,50.0,0.725
+" {
+	r0, _, e1 := Syscall(SYS_SENDMSG, uintptr(s), uintptr(unsafe.Pointer(msg)), uintptr(flags))
+	n = int(r0)
+	if e1 != 0 {
+		err = errnoErr(e1)
+	}
+	return
+}
+
+// THIS FILE IS GENERATED BY THE COMMAND AT THE TOP; DO",11170,9552,50.0,0.312
+"/htdocs/vetosteonet/ecrire/inc/filtres.php on line 753
+
+Strict Standards: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier",11185,1005,50.0,1.522
+"P>
+<!-- ======== NESTED CLASS SUMMARY ======== -->
+
+<A NAME=""nested_class_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSP",11192,919,50.0,0.315
+"ServiceProxyGeneratorTool""
+			/>
+			<Tool
+				Name=""VCMIDLTool""
+				PreprocessorDefinitions=""WIN32;_CRT_SECURE_NO_DEPRECATE=1;_CRT_NON_CONFORMING_SWPRINTFS=1;_SCL_SECURE_NO_WARNINGS=1;__WXMSW",11198,1040,50.0,0.568
+" -------------------------------------------------------------------------------------------------
+
+Special details {#specialdetails}
+===============
+
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Geometry. All esds (except the esd in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell esds are taken into account individually in the estimation of esds in distances, angles and torsion angles; correlations between esds in cell parameters are only used when they are",11213,1766,50.0,0.679
+", notify, notifyAll, toString, wait, wait, wait</CODE></TD>
+</TR>
+</TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUM",11217,1026,50.0,0.844
+"No Response)
+
+\*\*\*\*\*\*\*\*\*\*
+
+7\. PLOS authors have the option to publish the peer review history of their article ([what does this mean?](https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files",11230,1673,50.0,0.408
+" MedHelp is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of something you read on this Site. We offer this Site AS IS and without",11232,931,50.0,0.91
+"=""http://schemas.microsoft.com/developer/msbuild/2003"">
+  <ItemGroup>
+    <Filter Include=""Source Files"">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc",11260,1140,50.0,0.468
+"Registration complete
+
+REGISTER
+
+USERNAME *
+
+Spaces are allowed; punctuation is not allowed except for periods, hyphens, and underscores.
+
+E-MAIL ADDRESS *
+
+A valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail",11297,863,50.0,0.949
+"IL =========== -->
+
+<A NAME=""field_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""1""><FONT SIZE=""+2"">
+<B",11300,1224,50.0,0.54
+"=""javascript:void(0)"" onclick=""searchBox.OnSelectItem(7)""><span class=""SelectionMark"">&#160;</span>页</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id",11414,1070,50.0,0.504
+", wait</CODE></TD>
+</TR>
+</TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#",11471,1396,50.0,0.381
+" wait, wait, wait</CODE></TD>
+</TR>
+</TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGC",11473,1396,50.0,0.355
+"Group Label=""ExtensionSettings"">
+  </ImportGroup>
+  <ImportGroup Condition=""'$(Configuration)|$(Platform)'=='Release|Win32'"" Label=""PropertySheets"">
+    <Import Project=""$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props"" Condition=""exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')"" Label=""LocalAppDataPlatform""",11516,1756,50.0,0.546
+"END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIID3DCCAsSgAwIBAgIHBHJdU5tTvDANBgkqhkiG9w0BAQsFADCBozELMAkGA1UE
+BhMCVVMxEzARBgNVBAgMCkNhbGlmb3JuaWExEjAQBgNVBAcMCUx",11527,1223,50.0,0.743
+"Support Progressive Journalism
+
+The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter.
+
+Fight Back!
+
+Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here.
+
+Thank you for signing up. For more from The Nation, check",11631,1229,50.0,1.012
+"=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR",11654,1342,50.0,0.397
+"*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2^) {#tablewrapcoords}
+==================================================================================================
+
+  ------ -------------- -------------- -------------- -------------------- --
+         *x*            *y",11655,2499,50.0,0.996
+" COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_top_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">
+  <TD BGCOLOR=""#EEEEFF"" CLASS=""",11671,1336,50.0,0.565
+"6
+                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.",11696,2159,50.0,0.334
+"</B>()</PRE>
+<DL>
+</DL>
+
+<!-- ============ METHOD DETAIL ========== -->
+
+<A NAME=""method_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor",11697,1287,50.0,0.27
+"a>
+<h3>Field Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Field Summary table, listing fields, and an explanation"">
+<caption><span>Fields</span><span class=""tabEnd"">&nbsp;</span></caption>
+<tr>
+<th class=""colFirst"" scope=""col"">Modifier and Type</th",11742,1672,50.0,0.421
+" <ItemGroup>
+    <Filter Include=""Source Files"">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>",11767,1975,50.0,0.296
+"Discuss this Article
+
+Post your comments
+
+Please enter the code:
+
+Login
+
+Register
+
+Make changes/additions/deletions to the article below, and one of our editors will publish your suggestions if warranted.
+
+Optional: Explanation of your recommended changes
+
+Thank You!
+
+One of our editors will review your suggestion and make changes if warranted.
+Note that depending on the number of suggestions we receive,
+this can take anywhere from a few",11813,1639,50.0,0.411
+".
+
+Level 13, 201 Elizabeth Street
+
+Sydney, NSW 2000, Australia
+
+www.harpercollins.com.au
+
+**Canada**
+
+HarperCollins Canada
+
+2 Bloor Street East - 20th Floor
+
+Toronto, ON M4W 1A8, Canada
+
+www.harpercollins.ca
+
+**New Zealand**
+
+HarperCollins Publishers New Zealand
+
+Unit D1, 63 Apollo Drive
+",11832,2416,50.0,1.176
+"ns=""http://schemas.microsoft.com/developer/msbuild/2003"">
+  <ItemGroup>
+    <Filter Include=""Source Files"">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx",11874,1995,50.0,0.471
+"
+				return ErrIntOverflowGenerated
+			}
+			if iNdEx >= l {
+				return io.ErrUnexpectedEOF
+			}
+			b := dAtA[iNdEx]
+			iNdEx++
+			wire |= (uint64(b) & 0x7F) << shift
+			if b <",11876,7507,50.0,0.257
+"(0) comments
+
+Welcome to the discussion.
+
+Keep it Clean. Please avoid obscene, vulgar, lewd,
+racist or sexually-oriented language.PLEASE TURN OFF YOUR CAPS LOCK.Don't Threaten. Threats of harming another
+person will not be tolerated.Be Truthful. Don't knowingly lie about anyone
+or anything.Be Nice. No racism, sexism or any sort of -ism
+that is degrading to another person.Be Proactive.",11885,1964,50.0,0.701
+"></CODE></TD>
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">",11918,1885,50.0,0.164
+"8""?>
+<Project ToolsVersion=""12.0"" DefaultTargets=""Build"" xmlns=""http://schemas.microsoft.com/developer/msbuild/2003"">
+  <Import Project=""$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props"" Condition=""Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')"" />
+ ",11949,1945,50.0,0.327
+" opt-out if you wish. Cookie settingsACCEPT
+
+Privacy & Cookies Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with",11950,1745,50.0,0.682
+" Password:
+
+Email Address
+
+Please enter a valid email address for yourself.
+
+Email Address:
+
+OR
+
+Log-in
+
+User Name
+
+Password
+
+Remember Me?
+
+Human Verification
+
+In order to verify that you are a human and not a spam bot, please enter the answer into the following box below based on the instructions contained in the graphic.
+
+Additional Options
+
+Miscellaneous Options
+
+Automatically parse links in text
+",12003,1784,50.0,0.612
+"&nbsp;
+<!-- ======== CONSTRUCTOR SUMMARY ======== -->
+
+<A NAME=""constructor_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN",12005,2043,50.0,0.245
+" are defined by crystal symmetry. An approximate (isotropic) treatment of cell esds is used for estimating esds involving l.s. planes.
+  Refinement. Refinement of F^2^ against ALL reflections. The weighted R-factor wR and goodness of fit S are based on F^2^, conventional R-factors R are based on F, with F set to zero for negative F^2^. The threshold expression of F^2^ \> 2",12022,4677,50.0,1.674
+"
+
+In order to be able to post messages on the Ford Focus Forum, Ford Focus ST Forum, Ford Focus RS Forum forums, you must first register.
+Please enter your desired user name, your email address and other required details in the form below.
+
+User Name:
+
+Password
+
+Please enter a password for your user account. Note that passwords are case-sensitive.
+
+Password:
+
+Confirm Password:
+
+Email Address
+
+Please enter a valid email",12023,2177,50.0,1.022
+" esds in cell parameters are only used when they are defined by crystal symmetry. An approximate (isotropic) treatment of cell esds is used for estimating esds involving l.s. planes.
+  Refinement. Refinement of F^2^ against ALL reflections. The weighted R-factor wR and goodness of fit S are based on F^2^, conventional R-factors R are based on F, with F set to zero for negative F^2^. The",12026,4685,50.0,1.994
+"angular.module(""ngLocale"", [], [""$provide"", function($provide) {
+var PLURAL_CATEGORY = {ZERO: ""zero"", ONE: ""one"", TWO: ""two"", FEW: ""few"", MANY: ""many"", OTHER: ""other""};
+$provide.value(""$locale"", {
+  ""DATETIME_FORMATS"": {
+    ""AMPMS"": [",12030,6247,50.0,0.186
+"../../../allclasses.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.",12054,2182,50.0,0.27
+"!DOCTYPE plist PUBLIC ""-//Apple//DTD PLIST 1.0//EN"" ""http://www.apple.com/DTDs/PropertyList-1.0.dtd"">
+<plist version=""1.0"">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$",12061,7179,50.0,0.356
+" are only used when they are defined by crystal symmetry. An approximate (isotropic) treatment of cell esds is used for estimating esds involving l.s. planes.
+  Refinement. Refinement of F^2^ against ALL reflections. The weighted R-factor wR and goodness of fit S are based on F^2^, conventional R-factors R are based on F, with F set to zero for negative F^2^. The threshold expression of F^",12090,4683,50.0,1.836
+"Register Now
+
+In order to be able to post messages on the SailNet Community forums, you must first register. Please enter your desired user name, your email address and other required details in the form below.Please note: After entering 3 characters a list of Usernames already in use will appear and the list will disappear once a valid Username is entered.
+
+User Name:
+
+Password
+
+Please enter a password for your user account. Note that passwords are case-sensitive.",12104,2472,50.0,0.245
+">
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH AL",12105,2847,50.0,0.37
+"summary"">
+<!--   -->
+</a>
+<h3>Field Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Field Summary table, listing fields, and an explanation"">
+<caption><span>Fields</span><span class=""tabEnd"">&nbsp;</span></caption>
+<tr>
+<th class=""colFirst"" scope",12115,2599,50.0,0.207
+"== FIELD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""field.summary"">
+<!--   -->
+</a>
+<h3>Field Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Field Summary table, listing fields, and an explanation"">
+<caption><span>Fields</",12123,2562,50.0,0.473
+" Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies.",12127,2585,50.0,0.256
+"  @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();",12157,4762,50.0,0.245
+"TABLE>
+&nbsp;
+<P>
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH",12159,2847,50.0,0.425
+"MENTS
+
+Reader comments on sltrib.com are the opinions of the writer, not The Salt Lake Tribune. We will delete comments containing obscenities, personal attacks and inappropriate or offensive remarks. Flagrant or repeat violators will be banned. If you see an objectionable comment, please alert us by clicking the arrow on the upper right side of the comment and selecting ""Flag comment as inappropriate"". If you've recently registered with Disqus or aren't seeing your comments immediately, you may need",12178,2691,50.0,0.511
+"﻿<?xml version=""1.0"" encoding=""utf-8""?>
+<Project ToolsVersion=""4.0"" DefaultTargets=""Build"" xmlns=""http://schemas.microsoft.com/developer/msbuild/2003"">
+  <PropertyGroup>
+    <Configuration Condition="" '$(Configuration)' == '' "">Debug</Configuration>
+    <Platform Condition="" '$(Platform)' == '' "">",12183,2531,50.0,0.072
+"
+<li class=""blockList""><a name=""field.summary"">
+<!--   -->
+</a>
+<h3>Field Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Field Summary table, listing fields, and an explanation"">
+<caption><span>Fields</span><span class=""tabEnd"">&nbsp;</span></caption>",12198,2562,50.0,0.273
+"ur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla par",12206,5370,50.0,0.68
+"=""../../../../help-doc.html""><FONT CLASS=""NavBarFont1""><B>Help</B></FONT></A>&nbsp;</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD ALIGN=""right"" VALIGN=""top"" ROWSPAN=3><EM>
+</EM>
+</TD>
+</TR>
+
+<TR>
+<TD BGCOLOR=""white""",12207,3281,50.0,0.287
+"
+<!DOCTYPE plist PUBLIC ""-//Apple//DTD PLIST 1.0//EN"" ""http://www.apple.com/DTDs/PropertyList-1.0.dtd"">
+<plist version=""1.0"">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string",12208,8597,50.0,0.207
+" sense of what matters most. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm",12220,6650,50.0,0.41
+"Woot.com is operated by Woot Services LLC.
+Products on Woot.com are sold by Woot, Inc., other than items on Wine.Woot which are sold by the seller specified on the product detail page.
+Product narratives are for entertainment purposes and frequently employ
+literary point of view;
+the narratives do not express Woot's editorial opinion.
+Aside from literary abuse, your use of this site also subjects you to Woot's
+terms of use
+",12248,2921,50.0,0.532
+"
+Thank You
+
+By registering you become a member of the CBS Interactive family of sites and you have read and agree to the Terms of Use, Privacy Policy and Video Services Policy. You agree to receive updates, alerts and promotions from CBS and that CBS may share information about you with our marketing partners so that they may contact you by email or otherwise about their products or services.
+You will also receive a complimentary subscription to the ZDNet's Tech Update Today and ZDNet Announcement newsletters",12259,3418,50.0,0.442
+"  ------------------------------------------------------------ --------------------------------------
+
+Refinement {#tablewraprefinementdatalong}
+==========
+
+  ------------------------------------- -------------------------------------------------------------------------------------------------
+  Refinement on *F*^2^                  Primary atom site location: structure-invariant direct methods
+  Least-squares matrix: full            Secondary atom site location: difference Fourier map",12262,5757,50.0,0.402
+"REF=""../../../../help-doc.html""><FONT CLASS=""NavBarFont1""><B>Help</B></FONT></A>&nbsp;</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD ALIGN=""right"" VALIGN=""top"" ROWSPAN=3><EM>
+</EM>
+</TD>
+</TR>
+
+<TR>
+<TD BGCOLOR=""white",12267,3281,50.0,0.286
+"CTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF",12280,3155,50.0,0.276
+" dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum d",12288,5313,50.0,0.315
+ headlines out of Washington never seem to slow. Subscribe to The D.C. Brief to make sense of what matters most. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your,12301,6650,50.0,1.074
+"!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset",12309,3155,50.0,0.273
+"
+Privacy & Cookies Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of",12335,3541,50.0,0.314
+"  <Import Project=""$(MSBuildToolsPath)\Microsoft.CSharp.targets"" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name=""BeforeBuild"">
+  </Target>
+  <Target Name=""AfterBuild"">
+  </Target>
+  -->
+",12338,4291,50.0,0.331
+".
+
+Ethics approval and consent to participate {#FPar3}
+==========================================
+
+Not applicable.
+
+Consent for publication {#FPar4}
+=======================
+
+Not applicable.
+
+Competing interests {#FPar5}
+===================
+
+The authors declare that they have no competing interests.
+
+Publisher's Note {#FPar6}
+================
+
+Springer Nature remains neutral with regard to jurisdictional claims in published",12340,7396,50.0,0.203
+"ics approval and consent to participate {#FPar3}
+==========================================
+
+Not applicable.
+
+Consent for publication {#FPar4}
+=======================
+
+Not applicable.
+
+Competing interests {#FPar5}
+===================
+
+The authors declare that they have no competing interests.
+
+Publisher's Note {#FPar6}
+================
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affili",12356,7441,50.0,0.382
+" YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				""CODE_SIGN_IDENTITY[sdk=iphoneos*]"" = ""iPhone Developer"";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT",12359,3784,50.0,0.305
+"
+------------------------
+
+#### [首页](https://github.com/gfw-breaker/banned-news/blob/master/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki) &nbsp;&nbsp;",12367,3920,50.0,0.393
+"
+Comments
+
+We encourage all readers to share their views on our articles and blog posts. We are committed to maintaining a lively but civil forum for discussion, so we ask you to avoid personal attacks, and please keep your comments relevant and respectful. If you encounter a comment that is abusive, click the ""X"" in the upper right corner of the comment box to report spam or abuse. We are using Facebook commenting. Visit our FAQ page for more information.
+
+Almost Done!
+
+",12378,3479,50.0,0.221
+"\*\*\*\*\*\*\*
+
+6\. PLOS authors have the option to publish the peer review history of their article ([what does this mean?](https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity",12379,7857,50.0,0.261
+">
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN=""left""><B>Methods inherited from",12393,4061,50.0,0.303
+"
+
+<A NAME=""constructor_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""2""><FONT SIZE=""+2"">
+<B>Constructor Summary",12404,3772,50.0,0.316
+"0f86e5b48e01b996cadc001622fb5e363b421"",
+            ""uncleHash"" : ""0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347""
+        },
+      ",12405,3907,50.0,1.357
+" Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But",12406,3662,50.0,0.254
+"</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN=""left""><B>Methods",12415,4061,50.0,0.365
+"\*\*\*\*\*\*
+
+6\. PLOS authors have the option to publish the peer review history of their article ([what does this mean?](https://journals.plos.org/plosone/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain",12416,7857,50.0,0.264
+" out more information about the move and how to open a new account (if necessary) here.
+If you get stuck you can get support by emailing forums@sitepoint.com
+
+If this is your first visit, be sure to
+check out the FAQ by clicking the
+link above. You may have to register
+before you can post: click the register link above to proceed. To start viewing messages,
+select the forum that you want to visit from the selection below.",12423,3685,50.0,1.238
+"
+
+Privacy & Cookies Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out",12425,3541,50.0,0.292
+"=== CONSTRUCTOR SUMMARY ======== -->
+
+<A NAME=""constructor_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""2""><FONT SIZE=""",12426,3858,50.0,0.478
+">
+</TR>
+</TABLE>
+&nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN",12432,4151,50.0,0.184
+"ETAIL ======== -->
+
+<A NAME=""constructor_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""1""><FONT SIZE=""+2"">
+<",12433,3858,50.0,0.442
+"nbsp;<A NAME=""methods_inherited_from_class_java.lang.Object""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#EEEEFF"" CLASS=""TableSubHeadingColor"">
+<TH ALIGN=""left""><B>Methods inherited from class java.",12451,4061,50.0,0.315
+"�^−3^
+  ------------------------------------- -------------------------------------------------------------------------------------------------
+
+Special details {#specialdetails}
+===============
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Geometry. All e.s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of",12457,7181,50.0,0.833
+"Privacy & Cookies Policy
+
+Privacy Overview
+
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these",12472,3541,50.0,0.329
+"=== CONSTRUCTOR SUMMARY ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor_summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><",12479,4570,50.0,0.427
+" or course of action. Med Help International, Inc. is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of something you read on this Site",12480,4123,50.0,1.118
+"MARY ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor_summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</",12482,4570,50.0,0.412
+"Report author of article
+
+DISCLAIMER
+
+This article has been written by a member of the GiveMeSport Writing Academy and does not represent the views of
+GiveMeSport.com or SportsNewMedia. The views and opinions expressed are solely that of the author credited at the top of this article.
+GiveMeSport.com and SportsNewMedia do not take any responsibility for the content of its contributors.
+
+Want more content like this?
+
+Like our GiveMeSport",12486,4459,50.0,0.583
+". Med Help International, Inc. is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of something you read on this Site. We offer this",12487,4123,50.0,1.027
+"
+<li class=""blockList""><a name=""constructor_summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp;</",12500,4570,50.0,0.227
+" provider, procedure, treatment plan, product, or course of action. Med Help International, Inc. is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice",12504,4123,50.0,1.327
+". If you encounter a comment that is abusive, click the ""X"" in the upper right corner of the comment box to report spam or abuse. We are using Facebook commenting. Visit our FAQ page for more information.
+
+Almost Done!
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the",12515,4358,50.0,0.599
+" of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2^) {#tablewrapcoords}
+==================================================================================================
+
+  ------ --------------",12516,8651,50.0,0.629
+" corner of the comment box to report spam or abuse. We are using Facebook commenting. Visit our FAQ page for more information.
+
+Almost Done!
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I",12523,4358,50.0,0.756
+"
+</TR>
+</TABLE>
+&nbsp;
+<!-- ========== METHOD SUMMARY =========== -->
+
+<A NAME=""method_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<",12538,4586,50.0,0.24
+" all readers to share their views on our articles and blog posts. We are committed to maintaining a lively but civil forum for discussion, so we ask you to avoid personal attacks, and please keep your comments relevant and respectful. If you encounter a comment that is abusive, click the ""X"" in the upper right corner of the comment box to report spam or abuse. We are using Facebook commenting. Visit our FAQ page for more information.
+
+Almost Done!
+
+Postmedia wants to improve your",12548,4358,50.0,0.65
+", treatment plan, product, or course of action. Med Help International, Inc. is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of",12552,4123,50.0,1.3
+"BILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ * ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+ * WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+ * OR IN CONNECTION WITH THE USE OR",12559,8650,50.0,0.284
+"!-- ============ METHOD DETAIL ========== -->
+
+<A NAME=""method_detail""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""1""><FONT S",12560,4645,50.0,0.267
+" International, Inc. is not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of something you read on this Site. We offer this Site AS IS",12562,4123,50.0,0.901
+"
+ * | |_| | | | |/ /^\ \ 
+ *  \___/\_| |_/\/   \/ 
+ * 
+ * This file was autogenerated by UnrealHxGenerator using UHT definitions.
+ * It only includes UPROPERTYs and UFUNCTIONs. Do not modify it!
+ * In order to add more definitions, create or edit a type with the same name/package,",12567,5864,50.0,1.222
+"
+&nbsp;
+<!-- ========== METHOD SUMMARY =========== -->
+
+<A NAME=""method_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSP",12574,4290,50.0,0.341
+" your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Any cookies that may not be particularly necessary for the website to function and is used specifically to",12578,5086,50.0,0.814
+"User Name:
+
+Password
+
+Please enter a password for your user account. Note that passwords are case-sensitive.
+
+Password:
+
+Confirm Password:
+
+Email Address
+
+Please enter a valid email address for yourself.
+
+Email Address:
+
+OR
+
+Log-in
+
+User Name
+
+Password
+
+Remember Me?
+
+Human Verification
+
+In order to verify that you are a human and not a spam bot, please enter the",12581,5245,50.0,0.338
+" not a medical or healthcare provider and your use of this Site does not create a doctor / patient relationship. We disclaim all responsibility for the professional qualifications and licensing of, and services provided by, any physician or other health providers posting on or otherwise referred to on this Site and/or any Third Party Site. Never disregard the medical advice of your physician or health professional, or delay in seeking such advice, because of something you read on this Site. We offer this Site AS IS and without any warranties.",12582,5054,50.0,0.917
+"blockList"">
+<li class=""blockList""><a name=""method_summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span>Methods</span><span class=""tabEnd"">&nbsp;</span></",12602,5814,50.0,0.211
+"table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span>Methods</span><span class=""tabEnd"">&nbsp;</span></caption>
+<tr>
+<th class=""colFirst"" scope=""col"">Modifier and Type</th>
+<th class=""colLast"" scope=""col"">Method and Description",12606,5814,50.0,0.458
+" and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Any cookies that may",12607,5087,50.0,0.715
+""">
+<li class=""blockList""><a name=""method_summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span>Methods</span><span class=""tabEnd"">&nbsp;</span></caption",12617,5814,50.0,0.176
+" with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal",12618,5086,50.0,0.716
+"ANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				""CODE_SIGN_IDENTITY[sdk=iphoneos*]"" = ""iPhone Developer"";
+				COPY_PHASE_STRIP =",12627,5142,50.0,0.463
+" SUMMARY =========== -->
+
+<A NAME=""method_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""2""><FONT SIZE=""+2"">
+",12632,5089,50.0,0.416
+" -->
+
+<A NAME=""method_summary""><!-- --></A>
+<TABLE BORDER=""1"" WIDTH=""100%"" CELLPADDING=""3"" CELLSPACING=""0"" SUMMARY="""">
+<TR BGCOLOR=""#CCCCFF"" CLASS=""TableHeadingColor"">
+<TH ALIGN=""left"" COLSPAN=""2""><FONT SIZE=""+2"">
+<B>Method Summary</",12651,4975,50.0,0.226
+"=""blockList""><a name=""method_summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span>Methods</span><span class=""tabEnd"">&nbsp;</span></caption>
+<tr>",12656,5814,50.0,0.287
+"0"" encoding=""UTF-8""?>
+<!DOCTYPE plist PUBLIC ""-//Apple//DTD PLIST 1.0//EN"" ""http://www.apple.com/DTDs/PropertyList-1.0.dtd"">
+<plist version=""1.0"">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundle",12657,11472,50.0,0.241
+"ETHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method_summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""overviewSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span>Methods</span><",12661,5814,50.0,0.403
+"
+For Search feature please
+to enable JavaScript or to put this site in Trusted Sites zone
+in your browser
+
+Parents please
+protect your kids from accessing porn by simply using your browser's
+surfing preferences.
+All models appearing on this site are 18 years or older.
+For 2257 related inquiries please contact each gallery site owner
+individually.
+We do not produce pornographic content ourselves. Reproduction of
+our site design, as well as part or totality of our links",12677,6051,50.0,0.621
+"
+
+Get The Brief. Sign up to receive the top stories you need to know right now. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent",12683,12063,50.0,0.203
+" you to use our commenting platform to engage in insightful conversations about issues in our community. Although we do not pre-screen comments, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable to us, and to disclose any information necessary to satisfy the law, regulation, or government request. We might permanently block any user who abuses these conditions.
+
+",12687,6532,50.0,0.604
+" know right now. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription",12690,12063,50.0,0.372
+" need to know right now. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm",12691,12063,50.0,0.365
+" top stories you need to know right now. Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the",12697,12063,50.0,0.445
+"
+
+For Search feature please
+to enable JavaScript or to put this site in Trusted Sites zone
+in your browser
+
+Parents please
+protect your kids from accessing porn by simply using your browser's
+surfing preferences.
+All models appearing on this site are 18 years or older.
+For 2257 related inquiries please contact each gallery site owner
+individually.
+We do not produce pornographic content ourselves. Reproduction of
+our site design, as well as part or totality of our",12710,6051,50.0,0.397
+"-
+
+Special details {#specialdetails}
+===============
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Geometry. All e.s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s in distances,",12732,11259,50.0,0.647
+" Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and get three actions in your inbox every week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. The Nation is reader supported: Chip in $",12738,15631,50.0,0.533
+"             NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+      ",12747,12886,50.0,0.252
+" and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Travel With The Nation Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits.
+
+Sign up for our Wine Club today. Did you know you can support The Nation by drinking wine?
+",12749,13843,50.0,0.898
+"        NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+           ",12757,12563,50.0,0.277
+" continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week. You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The Nation, check out our",12766,15631,50.0,0.654
+"         NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+         ",12770,12472,50.0,0.251
+" our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week. You will receive occasional",12772,15631,50.0,0.688
+"loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.org/privacy-policy).
+
+Reviewer \#1:",12773,14634,50.0,0.7
+" $10 or more to help us continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week. You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more",12774,15631,50.0,0.928
+" every week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and",12783,15631,50.0,0.6
+" or more to help us continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week. You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The",12797,15631,50.0,0.793
+" here. Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Travel With The Nation Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits.
+
+Sign up for our Wine Club today. Did you know you can",12798,15631,50.0,0.516
+" here. Sign up for Take Action Now and get three actions in your inbox every week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues",12800,15631,50.0,0.368
+" Sign up for Take Action Now and get three actions in your inbox every week. You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and get three actions in your inbox every week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported:",12808,15631,50.0,0.387
+" Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Travel With The Nation Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits. Be the first to hear about Nation Travels destinations, and explore the world with kindred spirits.
+
+Sign up for our Wine Club today. Did you know you can support The Nation by drinking wine?",12811,15631,50.0,0.933
+"                NOT TO BE PUBLISHED IN THE OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+  ",12820,12224,50.0,0.257
+"s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and get three actions in your inbox every week.
+
+Thank you for signing up. For more from The Nation, check out our latest issue
+
+Subscribe now for as little as $2 a month!
+
+Support Progressive Journalism The Nation is reader supported: Chip in $10 or more to help us continue to write about the issues that matter. The Nation is reader supported: Chip in $10 or more",12823,15631,50.0,0.582
+" use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any",12829,7050,50.0,0.629
+"              NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+     ",12842,12794,50.0,0.258
+" to help us continue to write about the issues that matter.
+
+Fight Back! Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week. You will receive occasional promotional offers for programs that support The Nation’s journalism. You can read our Privacy Policy here. Sign up for Take Action Now and we’ll send you three meaningful actions you can take each week.
+
+Thank you for signing up. For more from The Nation,",12850,15631,50.0,0.715
+"               NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115.
+
+
+    ",12852,12798,50.0,0.25
+"/s/editorial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.",12868,16220,50.0,1.108
+"The content published in Cureus is the result of clinical experience and/or research by independent individuals or organizations. Cureus is not responsible for the scientific accuracy or reliability of data or conclusions published herein. All content published within Cureus is intended only for educational, research and reference purposes. Additionally, articles published within Cureus should not be deemed a suitable substitute for the advice of a qualified health care professional. Do not disregard or avoid professional medical advice due to content published within Cureus.
+
+Introduction",12871,17589,50.0,0.062
+""" title=""Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CE",12872,9648,50.0,0.408
+" links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""",12878,9648,50.0,0.359
+"                      NOT TO BE PUBLISHED IN OFFICIAL REPORTS
+California Rules of Court, rule 8.1115(a), prohibits courts and parties from citing or relying on opinions not certified for
+publication or ordered published, except as specified by rule 8.1115(b). This opinion has not been certified for publication
+or ordered published for purposes of rule 8.1115",12881,14907,50.0,0.241
+" title=""Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELL",12883,9648,50.0,0.343
+"0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUM",12886,9892,50.0,0.331
+"-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.org/privacy-policy).
+
+",12888,16214,50.0,1.015
+"IDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY=""",12893,9892,50.0,0.34
+"ial-and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.org/privacy",12894,16220,50.0,0.852
+""">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp;</",12896,8625,50.0,0.168
+"List"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp;",12897,8625,50.0,0.224
+"SPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">",12900,9892,50.0,0.331
+" Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The",12901,9289,50.0,0.933
+" permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you",12903,9289,50.0,0.773
+"=""blockList"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&n",12906,8625,50.0,0.242
+""" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">
+  <TD B",12921,9892,50.0,0.375
+"-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.org/privacy-policy).
+
+Reviewer \",12927,16214,50.0,1.021
+"../../../../../../allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+ ",12935,8429,50.0,0.267
+" bibliography or works cited list.
+
+Because each style has its own formatting nuances that evolve over time and not all information is available for every reference entry or article, Encyclopedia.com cannot guarantee each citation it generates. Therefore, it’s best to use Encyclopedia.com citations as a starting point before checking the style against your school or publication’s requirements and the most-recent information available at these sites:
+
+Modern Language Association
+
+The Chicago Manual of Style
+
+American",12939,9158,50.0,1.087
+" name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp;</span></caption>
+<tr>
+",12943,8625,50.0,0.264
+"blockList"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp",12947,8625,50.0,0.213
+"
+Citation styles
+
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+Because each style",12949,9154,50.0,0.421
+"=""Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLP",12951,9648,50.0,0.374
+"
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELL",12952,9892,50.0,0.341
+"ARY ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><",12956,8625,50.0,0.247
+"Citation styles
+
+Encyclopedia.com gives you the ability to cite reference entries and articles according to common styles from the Modern Language Association (MLA), The Chicago Manual of Style, and the American Psychological Association (APA).
+
+Within the “Cite this article” tool, pick a style to see how all available information looks when formatted according to that style. Then, copy and paste the text into your bibliography or works cited list.
+
+Because each style has",12957,9162,50.0,0.37
+"Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADD",12964,9648,50.0,0.606
+"<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span><span class=""tabEnd"">&nbsp;</span></",12965,8625,50.0,0.2
+"ADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""",12970,9892,50.0,0.371
+"MARY ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><span>Constructors</span",12973,8625,50.0,0.403
+"../../../../allclasses-noframe.html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.",12975,9486,50.0,0.217
+"and-peer-review-process#loc-peer-review-history)). If published, this will include your full peer review and any attached files.
+
+If you choose ""no"", your identity will remain anonymous but your review may still be made public.
+
+**Do you want your identity to be public for this peer review?** For information about this choice, including consent withdrawal, please see our [Privacy Policy](https://www.plos.org/privacy-policy",12977,16220,50.0,0.812
+" BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING",12978,9892,50.0,0.363
+" Done!
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by",12981,9290,50.0,0.322
+"Refinement {#tablewraprefinementdatalong}
+==========
+
+  ------------------------------------- -------------------------------------------------------------------------------------------------
+  Refinement on *F*^2^                  Primary atom site location: structure-invariant direct methods
+  Least-squares matrix: full            Secondary atom site location: difference Fourier map
+  *R*\[*",12986,16844,50.0,0.405
+"=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+",12989,9892,50.0,0.347
+" ======== CONSTRUCTOR SUMMARY ======== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""constructor.summary"">
+<!--   -->
+</a>
+<h3>Constructor Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Constructor Summary table, listing constructors, and an explanation"">
+<caption><",12991,8625,50.0,0.324
+"   onmouseout=""return searchBox.OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""",12995,11357,50.0,0.807
+"
+</ul>
+<!-- ========== METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+",12996,9792,50.0,0.219
+" to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising,",12997,22086,50.0,0.604
+"details}
+===============
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Geometry. All e.s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s in distances, angles and torsion angles; correlations",13000,21348,50.0,0.408
+"-navbar_top"" title=""Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_top_firstrow""><!-- --></A>
+<TABLE BORD",13003,10020,50.0,0.553
+"noframe.html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";",13005,11575,50.0,0.45
+"0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_top_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">
+  <TD",13006,10474,50.0,0.404
+" use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will",13007,10131,50.0,0.962
+" Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by",13008,10132,50.0,0.288
+"-------------------------------------------------------------------------------------
+  Geometry. All e.s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s in distances, angles and torsion angles; correlations between e.s.d.\'s in cell parameters are only",13010,21421,50.0,0.411
+"rame.html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+ ",13014,11575,50.0,0.347
+" maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to",13015,10132,50.0,0.637
+" that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+
+–The Techdirt Team",13020,22086,50.0,1.052
+" out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept",13021,22086,50.0,0.556
+" quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have",13022,22086,50.0,0.525
+" many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its",13023,22086,50.0,1.153
+"
+     onmouseout=""return searchBox.OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults",13025,11357,50.0,0.812
+" with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept",13028,10132,50.0,0.453
+" and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create",13031,10132,50.0,0.738
+""">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+ ",13032,11575,50.0,0.372
+"li>
+</ul>
+<!-- ========== METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation",13033,9792,50.0,0.167
+" content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always",13035,22086,50.0,0.481
+" bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You",13036,10131,50.0,0.762
+"s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites",13040,22086,50.0,0.995
+"oframe.html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+",13042,11575,50.0,0.494
+". We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying",13043,22086,50.0,0.673
+".
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Post",13045,10132,50.0,0.312
+" us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements,",13048,22086,50.0,0.759
+"All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //",13051,11575,50.0,0.418
+" searchBox.OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</iframe",13052,11357,50.0,0.953
+"OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</iframe>
+</",13054,11357,50.0,0.935
+"Box.OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</iframe>",13057,11357,50.0,0.891
+" create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the",13059,10131,50.0,0.81
+" day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising",13060,22086,50.0,0.601
+" information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+",13061,10132,50.0,0.466
+" so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in",13062,22086,50.0,1.174
+"return searchBox.OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</",13066,11357,50.0,0.917
+" unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+
+–The Techdirt Team
+
+",13074,22084,50.0,0.914
+" my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing",13075,10132,50.0,1.07
+", use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my",13076,10132,50.0,0.772
+"media's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I",13077,10132,50.0,0.705
+" have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking",13078,10132,50.0,0.704
+"All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //",13081,11575,50.0,0.396
+" post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to",13083,22086,50.0,1.18
+", maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information",13084,10132,50.0,0.715
+" attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have",13085,22086,50.0,0.951
+" Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->",13087,11575,50.0,0.304
+" COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_top_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">
+  <TD BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1",13092,10424,50.0,0.489
+" of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile",13097,10132,50.0,0.844
+"bar_top"" title=""Skip navigation links""></A>
+<TABLE BORDER=""0"" WIDTH=""100%"" CELLPADDING=""1"" CELLSPACING=""0"" SUMMARY="""">
+<TR>
+<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_top_firstrow""><!-- --></A>
+<TABLE BORDER=""",13098,10020,50.0,0.508
+".OnSearchSelectHide()""
+     onkeydown=""return searchBox.OnSearchSelectKey(event)"">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id=""MSearchResultsWindow"">
+<iframe src=""javascript:void(0)"" frameborder=""0"" 
+        name=""MSearchResults"" id=""MSearchResults"">
+</iframe>
+",13099,11357,50.0,0.897
+"<TD COLSPAN=2 BGCOLOR=""#EEEEFF"" CLASS=""NavBarCell1"">
+<A NAME=""navbar_bottom_firstrow""><!-- --></A>
+<TABLE BORDER=""0"" CELLPADDING=""0"" CELLSPACING=""3"" SUMMARY="""">
+  <TR ALIGN=""center"" VALIGN=""top"">
+  <TD BGCOLOR=""#EEEEFF"" CLASS=""NavBar",13101,10176,50.0,0.276
+".html"">All Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }",13103,11575,50.0,0.359
+" is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+
+–The Techdirt Team
+",13105,22084,50.0,1.024
+" by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can",13108,10131,50.0,0.72
+" the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia's Privacy Policy.
+
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.",13111,10132,50.0,0.871
+" — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+
+",13114,22086,50.0,1.167
+"-doc.html""><FONT CLASS=""NavBarFont1""><B>Help</B></FONT></A>&nbsp;</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD ALIGN=""right"" VALIGN=""top"" ROWSPAN=3><EM>
+</EM>
+</TD>
+</TR>
+
+<TR>
+<TD BGCOLOR=""white"" CLASS=""NavBarCell2",13121,13870,50.0,0.364
+"R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2",13122,26232,50.0,1.011
+" approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *R* are based on *F*, with *F",13123,26220,50.0,1.339
+" is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement",13129,26232,50.0,1.156
+"*^2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+",13130,26308,50.0,1.443
+" not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2^) {#tablewrapcoords}
+==================================================================================================",13134,26234,50.0,0.648
+"<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0"" class=""activeTableTab""><span>All Methods</span><span class=""tabEnd",13140,12356,50.0,0.203
+"= METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0",13143,12356,50.0,0.571
+". An approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *R* are based on *F*, with",13144,26220,50.0,1.366
+" they are defined by crystal symmetry. An approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *R* are",13146,26218,50.0,1.531
+"ETHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0"" class",13147,12356,50.0,0.401
+"^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotrop",13148,26232,50.0,1.231
+"2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fraction",13150,26228,50.0,1.509
+" defined by crystal symmetry. An approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *R* are based on",13151,26220,50.0,1.46
+" calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å",13155,26232,50.0,1.024
+" used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters",13157,26232,50.0,1.121
+" σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and",13160,26228,50.0,1.312
+"<!-- ========== METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span",13161,12356,50.0,0.215
+". Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving",13163,26326,50.0,0.258
+" SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0"" class=""",13164,12356,50.0,0.386
+" METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0""",13166,12356,50.0,0.472
+"help-doc.html""><FONT CLASS=""NavBarFont1""><B>Help</B></FONT></A>&nbsp;</TD>
+  </TR>
+</TABLE>
+</TD>
+<TD ALIGN=""right"" VALIGN=""top"" ROWSPAN=3><EM>
+</EM>
+</TD>
+</TR>
+
+<TR>
+<TD BGCOLOR=""white"" CLASS=""NavBarCell",13169,13870,50.0,0.393
+" only used when they are defined by crystal symmetry. An approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *",13170,26216,50.0,1.669
+"!-- ========== METHOD SUMMARY =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id",13174,12356,50.0,0.237
+"factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2^) {",13177,26232,50.0,0.996
+" and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (Å^2^) {#tablewrapcoords}
+================================================================",13178,26234,50.0,0.728
+" An approximate (isotropic) treatment of cell e.s.d.\'s is used for estimating e.s.d.\'s involving l.s. planes.
+  Refinement. Refinement of *F*^2^ against ALL reflections. The weighted *R*-factor *wR* and goodness of fit *S* are based on *F*^2^, conventional *R*-factors *R* are based on *F*, with *",13182,26220,50.0,1.33
+" =========== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0"" class=""activeTableTab",13185,12356,50.0,0.331
+"F*^2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+",13188,26308,50.0,1.433
+"== -->
+<ul class=""blockList"">
+<li class=""blockList""><a name=""method.summary"">
+<!--   -->
+</a>
+<h3>Method Summary</h3>
+<table class=""memberSummary"" border=""0"" cellpadding=""3"" cellspacing=""0"" summary=""Method Summary table, listing methods, and an explanation"">
+<caption><span id=""t0"" class=""activeTableTab""><span",13191,12356,50.0,0.177
+" Please enter a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our",13193,26814,50.0,0.238
+".\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s in distances, angles and torsion angles; correlations between e.s.d.\'s in cell parameters are only used when they are defined by crystal symmetry. An approximate (isotropic",13196,29687,50.0,1.068
+" valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If",13197,26814,50.0,0.429
+" wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam",13206,26814,50.0,0.423
+"../../../../../allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+  ",13216,15184,50.0,0.254
+"s.d.\'s (except the e.s.d. in the dihedral angle between two l.s. planes) are estimated using the full covariance matrix. The cell e.s.d.\'s are taken into account individually in the estimation of e.s.d.\'s in distances, angles and torsion angles; correlations between e.s.d.\'s in cell parameters are only used when they are defined by crystal symmetry. An approximate",13217,29689,50.0,1.135
+"The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB, the silhouetted batter logo, World Series, National League, American League, Division Series, League Championship Series, All-Star Game, and the names, nicknames, logos, uniform designs, color combinations, and slogans designating the Major League Baseball clubs and entities, and",13222,14092,50.0,0.259
+" a valid email address. Sign Up Now Check the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters.",13224,26814,50.0,0.488
+" receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder.",13226,26814,50.0,0.528
+" promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder.
+",13228,26813,50.0,0.523
+" to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder",13229,26814,50.0,0.446
+"
+
+The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB, the silhouetted batter logo, World Series, National League, American League, Division Series, League Championship Series, All-Star Game, and the names, nicknames, logos, uniform designs, color combinations, and slogans designating the Major League Baseball clubs and entities",13230,14092,50.0,0.252
+". The threshold expression of *F*^2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",13234,26824,50.0,1.654
+" you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please",13235,26814,50.0,0.459
+" the box if you do not wish to receive promotional offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10",13236,26814,50.0,0.6
+" The threshold expression of *F*^2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",13247,26824,50.0,1.6
+" offers via email from TIME. You can unsubscribe at any time. By signing up you are agreeing to our Terms of Use and Privacy Policy . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Thank you! For your security, we've sent a confirmation email to the address you entered. Click the link to confirm your subscription and begin receiving our newsletters. If you don't get the confirmation within 10 minutes, please check your spam folder.
+
+",13254,26813,50.0,0.509
+" threshold expression of *F*^2^ \> σ(*F*^2^) is used only for calculating *R*-factors(gt) *etc*. and is not relevant to the choice of reflections for refinement. *R*-factors based on *F*^2^ are statistically about twice as large as those based on *F*, and *R*- factors based on ALL data will be even larger.
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",13262,26824,50.0,1.531
+" deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read",13267,19420,50.0,0.498
+" your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to",13268,19420,50.0,0.669
+" more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance",13270,19420,50.0,0.757
+" and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and",13272,19420,50.0,1.0
+" the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance",13275,19420,50.0,0.991
+"div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</script>
+</div>
+<a name",13276,16503,50.0,0.194
+" with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy",13278,19420,50.0,0.857
+" reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my",13280,19420,50.0,0.67
+" will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the",13287,19420,50.0,1.039
+" as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site",13290,19420,50.0,0.612
+" The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I",13292,19420,50.0,0.885
+". You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Postmedia",13293,19420,50.0,0.666
+" the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I",13296,19420,50.0,0.552
+"
+Postmedia wants to improve your reading experience as well as share the best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's",13298,19422,50.0,0.4
+" to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use",13300,19420,50.0,1.039
+" network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in",13303,19420,50.0,0.864
+" optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use,",13304,19420,50.0,0.949
+" best deals and promotions from our advertisers with you. The information below will be used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have",13305,19420,50.0,0.497
+" used to optimize the content and make ads across the network more relevant to you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection,",13307,19420,50.0,1.03
+" you. You can always change the information you share with us by editing your profile.
+
+By clicking ""Create Account"", I hearby grant permission to Postmedia to use my account information to create my account.
+
+I also accept and agree to be bound by Postmedia's Terms and Conditions with respect to my use of the Site and I have read and understand Postmedia's Privacy Statement. I consent to the collection, use, maintenance, and disclosure of my information in accordance with the Post",13308,19420,50.0,0.702
+"CTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF",13313,24611,50.0,0.222
+" PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF-8""/>
+",13316,24611,50.0,0.221
+"nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }",13317,25165,50.0,0.392
+"oframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display",13319,25546,50.0,0.477
+"YPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF-",13321,24611,50.0,0.288
+"noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.",13333,25546,50.0,0.447
+"All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+",13334,25165,50.0,0.428
+"../../../../allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+   ",13338,20657,50.0,0.257
+";Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+ ",13349,25165,50.0,0.426
+" html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF-8""/>",13351,24611,50.0,0.239
+"&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+ ",13358,25165,50.0,0.394
+"es</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->",13372,25165,50.0,0.32
+"classes-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.",13374,25546,50.0,0.44
+"rame.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display =",13375,25546,50.0,0.347
+"PE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;charset=UTF-8",13378,24611,50.0,0.266
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">
+<html xmlns=""http://www.w3.org/1999/xhtml"">
+<head>
+<meta http-equiv=""Content-Type"" content=""text/xhtml;chars",13379,24611,50.0,0.044
+"../allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClasses",13390,25038,50.0,0.398
+"html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none",13396,27842,50.0,0.304
+"a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</",13401,37705,50.0,0.324
+"bsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+",13404,27842,50.0,0.351
+"</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+",13408,37705,50.0,0.265
+"-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style",13411,25546,50.0,0.524
+"../../allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClass",13412,24606,50.0,0.286
+"All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+",13415,27842,50.0,0.411
+"&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+ ",13416,27842,50.0,0.383
+"nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }",13417,27842,50.0,0.373
+"></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</script",13421,37705,50.0,0.282
+"Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_top"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //",13422,25165,50.0,0.306
+"es</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->",13423,27842,50.0,0.302
+""">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";",13426,27842,50.0,0.384
+"allclasses-noframe.html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink",13429,25546,50.0,0.503
+";Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+ ",13432,27842,50.0,0.408
+".html"">All&nbsp;Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = """,13433,27842,50.0,0.38
+"Classes</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //",13436,27842,50.0,0.294
+"a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</",13437,40382,50.0,0.306
+"</a></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+",13438,40382,50.0,0.248
+"li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</script>",13439,40382,50.0,0.251
+"></li>
+</ul>
+<div>
+<script type=""text/javascript""><!--
+  allClassesLink = document.getElementById(""allclasses_navbar_bottom"");
+  if(window==top) {
+    allClassesLink.style.display = ""block"";
+  }
+  else {
+    allClassesLink.style.display = ""none"";
+  }
+  //-->
+</script",13440,40382,50.0,0.259
