@@ -31,7 +31,7 @@ colorama==0.4.6
 colorful==0.5.5
 comm==0.1.4
 contourpy==1.2.0
-cryptography==41.0.5
+cryptography==42.0.4
 cycler==0.12.1
 dacite==1.8.1
 db-dtypes==1.1.1
